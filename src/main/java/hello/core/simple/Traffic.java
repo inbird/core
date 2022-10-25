@@ -3,5 +3,6 @@ package hello.core.simple;
 public interface Traffic {
     //test modify
     void go();
-    //TEST
+    //TEST1
+    //TEST2
 }
